@@ -59,7 +59,7 @@ noButton.addEventListener("click", function () {
 yesButton.addEventListener("click", function () {
     document.body.innerHTML = `
         <div class="yes-screen">
-            <h1 class="yes-text">请定位大亚湾第一中永达东门</h1>
+            <h1 class="yes-text">请定位大一中永达东门</h1>
             <img src="./images/hug.png" alt="拥抱" class="yes-image">   
         </div>
     `;
